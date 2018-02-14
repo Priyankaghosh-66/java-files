@@ -1,0 +1,8 @@
+class operation {
+public static void main (string arr[]) {
+int i =5;
+int j =5;
+system.out.printIn("the value of i after the prefixed increment:" +  ++i);
+system.out.printIn("the value of j after the prefixed increment:" +  ++j);
+}
+}

@@ -1,0 +1,25 @@
+Installing software:
+1. obtain the required software:
+a. if you require both the JDk and NetBeans, the easiest method is to download the "JDK 7 with NetBeans 7.0.1" cobundle.
+1. Using a web browser
+2. Locate the JAva SE Development Kit (JDK) Cobundles tables.
+3., click the download button for "JDK 7 with NetBeans 7.0.1."
+4. you must aCCEPT THE jdk 7 AND NETbEANS 7.0.1 cobundle License agreement to download the software.
+5. download the file for your operating systems. As of this writing, LInux, Solaris, and Windows download are available
+b. If you require just the JDK, download the Java SE 7 JDK:
+1. Using a web browser
+2. Locate the java platform, standard edition table.
+3. click the download button for Java SE 7 JDK
+4. you must accept the JDK 7 and NetBeans 7.0.. cobundle License agreement to download the software.
+5. download the file for your operating system. As of this writing, linux, solaris, and windows download are available.
+c. if you require just the NetBeans IDE, download "NetBeans IDE 7.0.1 for java SE.":
+1. using the web browser
+2. click the download button for Java SE
+3. If the download does not start automatically, click the "download it here" link.
+2. Install the required software:
+* install the software downloaded in the preious step.
+* the JDK includes optional demos and a DATABASE known as the JavaDB. Install all optional JDK components if you are installing the JDK.
+* if you downloaded the JDK and NetBeans seperately (not the cobundle), complete the installation of the JDK before installing NetBeans.
+* If you have multiple JDK versions installed, be sure to select the java SE 7 JDK if prompted while installing NetBeans.
+* if NetBeans 7.0.1 was installed before JDK 7 or an older versions of the JDK was selected during NetBeans installation, perform practice 1-3 to reconfigure NetBEans to use JDK 7.
+3. verify the installation
