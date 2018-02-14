@@ -1,5 +1,0 @@
-jndi: 
-https://www.developer.com/java/data/article.php/10932_2215571_5/Locating-Resources-Using-JNDI-Java-Naming-and-Directory-Interface.htm
-http://www.informit.com/articles/article.aspx?p=26231
-sample ques:
-https://www.scribd.com/doc/28702355/Smaple-Questions-Advance-Java-servlets
